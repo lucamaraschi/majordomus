@@ -1,0 +1,1 @@
+var majordomus = require('./majordomus');
